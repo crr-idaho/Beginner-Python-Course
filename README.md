@@ -1,1 +1,3 @@
 ON AI PROGRAMMING: I used ChatGPT to teach me the concepts, syntax, and use cases of the code in these files. Every line of code was either directly written by me or edited with the help of AI only after making my own attempt at programming it. If I didn't understand a piece of code written by ChatGPT, I specifically asked questions about it to make sure I understood it before I implemented it in my own code. This is why you will see files labeled "Daily Assignment Answer". These were the end program I came up with after checking my own code with ChatGPT.
+
+If anyone requests it I can upload a transcript of the ChatGPT conversations.
