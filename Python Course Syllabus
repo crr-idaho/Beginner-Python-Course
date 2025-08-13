@@ -1,0 +1,107 @@
+4-Week Python Programming Course Syllabus
+
+Overview: This course is designed to provide a comprehensive yet manageable introduction to Python programming for a full-time student. Each weekday includes a focused topic with a brief assignment, and each weekend has a project that reinforces that week's concepts. Assignments are designed to take 30-60 minutes, while weekend projects may take 2-3 hours.
+
+---
+
+Week 1: Python Basics
+
+· Monday: Introduction to Python, Variables, and Data Types
+
+o Assignment: Write a script that prints your name, age, and favorite color.
+
+· Tuesday: Input/Output and String Manipulation
+
+o Assignment: Create a script that takes user input and formats a sentence.
+
+· Wednesday: Arithmetic and Comparison Operators
+
+o Assignment: Build a simple calculator that adds, subtracts, multiplies, and divides.
+
+· Thursday: Control Flow (if, elif, else)
+
+o Assignment: Write a script that classifies a number as positive, negative, or zero.
+
+· Friday: Loops (for, while)
+
+o Assignment: Print the first 10 numbers in the Fibonacci sequence.
+
+· Weekend Project: Build a command-line quiz game that asks 5 questions and scores the user.
+
+---
+
+Week 2: Data Structures and Functions
+
+· Monday: Lists and Tuples
+
+o Assignment: Write a program to reverse a list without using reverse().
+
+· Tuesday: Dictionaries and Sets
+
+o Assignment: Create a phone book app using a dictionary.
+
+· Wednesday: Functions and Parameters
+
+o Assignment: Write a function that checks if a string is a palindrome.
+
+· Thursday: Scope and Return Values
+
+o Assignment: Modify your palindrome function to ignore spaces and capitalization.
+
+· Friday: Nested Data Structures
+
+o Assignment: Create a nested dictionary to represent a simple contact list.
+
+· Weekend Project: Develop a text-based inventory system for a small store using functions and data structures.
+
+---
+
+Week 3: File Handling and Error Handling
+
+· Monday: Reading Files
+
+o Assignment: Read a text file and count the number of words.
+
+· Tuesday: Writing to Files
+
+o Assignment: Write a script that logs user input to a file.
+
+· Wednesday: Working with CSV Files
+
+o Assignment: Parse a CSV file and print its contents neatly.
+
+· Thursday: Try/Except Blocks
+
+o Assignment: Add error handling to your file reading script.
+
+· Friday: Custom Exceptions
+
+o Assignment: Create a function that raises a custom exception for invalid input.
+
+· Weekend Project: Build a command-line contact manager that reads/writes to a CSV file and includes error handling.
+
+---
+
+Week 4: Object-Oriented Programming and Final Project
+
+· Monday: Classes and Objects
+
+o Assignment: Define a class Person with attributes and a greeting method.
+
+· Tuesday: Constructors and Instance Methods
+
+o Assignment: Extend Person with an __init__ method and multiple behaviors.
+
+· Wednesday: Inheritance and Polymorphism
+
+o Assignment: Create a subclass Student that inherits from Person.
+
+· Thursday: Magic Methods and String Representations
+
+o Assignment: Override __str__ for your Student class.
+
+· Friday: OOP Review and Mini Design Challenge
+
+o Assignment: Design a simple class hierarchy for an RPG game (e.g., characters, weapons).
+
+· Weekend Final Project: Build a basic student management system using OOP principles. Include features for adding students, assigning grades, and printing summaries.
